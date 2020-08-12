@@ -1,0 +1,1 @@
+function t857__init(recid){$('.t857__container_mobile-flex').bind('touchstart',function(){$('.t857__col').bind('touchmove',function(){if(typeof $(".t-records").attr('data-tilda-mode')=='undefined'){if(window.lazy=='y'){t_lazyload_update()}}})}).mouseup(function(){$('.t857__col').unbind('touchend')})}
